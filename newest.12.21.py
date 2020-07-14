@@ -1,5 +1,4 @@
-# @author: Tung Doan 
-# @mail: tdoan5@fordham.edu
+
 from __future__ import print_function
 
 import warnings
