@@ -2,4 +2,4 @@
 
 2.for each algorithm, you will get a probability prediction. You first combine them together into one file, then just use the mojority_vote code to apply ensemble model.
 
-3.For data prepossing, you have to determine which ones are catogorical data and which ones are nummerical.Then just change the feature names to do the prepossing.
+3.For data preprocessing , you have to determine which ones are catogorical data and which ones are nummerical.Then just change the feature names to do the preprocessing .
